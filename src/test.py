@@ -1,6 +1,20 @@
 from app import Calculadora
 def test_sum_2_numeros():
     assert Calculadora().sum(2,2) ==4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #prueba unitaria comando instalar -> pip install pytest
 #pytest .\src\test.py
 #git init
