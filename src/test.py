@@ -23,3 +23,10 @@ def test_sum_2_numeros():
 #git branch -M main
 #git remote add origin "el link"
 #git push -u origin main
+
+
+#segunda parte___________________----------------
+#git add .
+#git commit -m "agregando a github actions"
+#git push -u origin main
+
